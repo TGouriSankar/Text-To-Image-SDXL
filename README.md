@@ -14,8 +14,11 @@ Features
 **App Link**:- [Click For Gradio App](https://huggingface.co/spaces/kasper-boy/image-generator-ai-sd-3-medium)
 
 **Result of the model**
-![generated_image](https://github.com/TGouriSankar/Text-To-Image-SDXL/blob/main/generated_image.png)
-![white](https://github.com/TGouriSankar/Text-To-Image-SDXL/blob/main/white.jpeg)
+<p align="center">
+  <img src="https://github.com/TGouriSankar/Text-To-Image-SDXL/blob/main/generated_image.png" alt="Image 1" width="45%">
+  <img src="https://github.com/TGouriSankar/Text-To-Image-SDXL/blob/main/white.jpeg" alt="Image 2" width="45%">
+</p>
+
 
 > **Model Information**
 
